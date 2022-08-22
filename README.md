@@ -24,7 +24,7 @@ https://www.kaggle.com/airbnb/seattle/data
 
 https://www.kaggle.com/datasets/airbnb/boston
 
-As both datasets contain the same three files (listings, reviews, calendar) save these in their own files within the working directory called “boston” and “seattle”, and ensure these are saved as CSVs. For example the first file the code imports is at “seattle/calendar.csv”.
+As both datasets contain the same three files (listings, reviews, calendar) save these in their own files within the working directory called “boston” and “seattle”, and ensure these are saved as CSVs. For example the first file the code imports is at “seattle/calendar.csv”. They have not been uploaded to this repo  for size reasons. 
 
 # Results
 The findings can be found in this blog post: 
